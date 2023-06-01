@@ -1,33 +1,58 @@
-
-
-<!--
-**Maachino/Maachino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Maach</h1>
-<h3 align="center">Moroccan Web Developer in Training</h3>
+<h1 align="center">Hello 👋, I'm Maach</h1>
+<h3 align="center">A Moroccan adventure from energy to web development ⚡️💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maachino&label=Profile%20views&color=0e75b6&style=flat" alt="maachino" /> </p>
 
-- 👨‍💻 All of my projects are available at [Null](Null)
+- 👨‍💻 Web dev, my newfound charm
+- 🎓 Energy, a chapter of my past
+- 🌐 Tech, shiny gadgets are my thing
+- 🧩 Strategic mind, always up for a challenge
+- 🇲🇦 From Morocco, bringing sunburn greetings
+- 🙏 Endless wisdom from Habiba, my guiding star
 
-- 📝 I regularly write articles on [Null](Null)
-
-- 📫 How to reach me **Maach.med@yahoo.com**
-
+- 📝 I occasionally share my thoughts on [Null](Null)
+- 📫 Reach me at **Maach.med@yahoo.com**
 - 📄 Know about my experiences [Null](Null)
+- ⚡ Fun fact: There's always a missing semicolon 😉
 
-- ⚡ Fun fact **missing semicolon In every code lol**
+<h1 align="center">Hello 👋, I'm Maach</h1>
+<h3 align="center">A Moroccan adventure from energy to web development ⚡️💻</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maachino&label=Profile%20views&color=0e75b6&style=flat" alt="maachino" /> </p>
+
+- 👨‍💻 Web dev, my newfound charm
+- 🎓 Energy, a chapter of my past
+- 🌐 Tech, shiny gadgets are my thing
+- 🧩 Strategic mind, always up for a challenge
+- 🇲🇦 From Morocco, bringing sunburn greetings
+- 🙏 Endless wisdom from Habiba, my guiding star
+
+- 📝 I occasionally share my thoughts on [Null](Null)
+- 📫 Reach me at **Maach.med@yahoo.com**
+- 📄 Know about my experiences [Null](Null)
+- ⚡ Fun fact: There's always a missing semicolon 😉
+
+<h3 align="left">Hard Skills:</h3>
+<p align="left">
+HTML/CSS<br>
+JavaScript<br>
+Git<br>
+SQL, MySQL<br>
+Express.js<br>
+React.js<br>
+C++<br>
+Modélisation et simulation<br>
+Analyse des systèmes énergétiques<br>
+Gestion de l'énergie<br>
+Efficacité énergétique<br>
+</p>
+
+<h3 align="left">Soft Skills:</h3>
+<p align="left">
+Capacité d'adaptation<br>
+Apprentissage rapide<br>
+Esprit d'analyse<br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
