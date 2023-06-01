@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maachino&label=Profile%20views&color=0e75b6&style=flat" alt="maachino" /> </p>
 
-- 👨‍💻 Web dev, my newfound charm
+- 👨‍💻 Reignited coding enthusiast at 28, now embarking on a Web Dev journey...
 - 🎓 Energy, a chapter of my past
 - 🌐 Tech, shiny gadgets are my thing
 - 🧩 Strategic mind, always up for a challenge
 - 🇲🇦 From Morocco, bringing sunburn greetings
 - 🙏 Endless wisdom from Habiba, my guiding star
 
-- 📝 I occasionally share my thoughts on [Null](Null)
+- 📝 I occasionally share my thoughts on 404
 - 📫 Reach me at **Maach.med@yahoo.com**
-- 📄 Know about my experiences [Null](Null)
+- 📄 Know about my experiences 404 ⁉️
 - ⚡ Fun fact: There's always a missing semicolon 😉
 
 
