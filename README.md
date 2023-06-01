@@ -24,7 +24,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.learn-sql.org/" target="_blank"> <img src="https://thumbs.dreamstime.com/z/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" alt="sql" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://cdn.buttercms.com/8amhtxuHScD41gilo3Wp](https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png" alt="express.js" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png" alt="express.js" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
@@ -36,7 +36,7 @@
   <li>Analytical Thinker</li>
 </ul>
 
-<h3 align="left">Hard Skills:</h3>
+<h3 align="left">Energy Skills:</h3>
 <ul>
   <li>Modeling and Simulation</li>
   <li>Energy Systems Analysis</li>
